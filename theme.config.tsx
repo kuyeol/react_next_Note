@@ -4,7 +4,7 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 const config: DocsThemeConfig = {
   logo: <span>My Project</span>,
   project: {
-    link: 'https://github.com/kuyeol/react_next_front',
+    link: 'https://reactnextfront.vercel.app',
   },
   chat: {
     link: 'https://github.com',
