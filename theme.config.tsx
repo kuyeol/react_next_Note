@@ -9,7 +9,7 @@ const config: DocsThemeConfig = {
   chat: {
     link: 'https://github.com',
   },
-  docsRepositoryBase: 'https://github.com/kuyeol/react_next_front/blob/main/pages',
+  docsRepositoryBase: 'https://github.com/kuyeol/react_next_front/blob/main',
   footer: {
     text: 'Next Docs Template',
   },
